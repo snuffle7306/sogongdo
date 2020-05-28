@@ -6,6 +6,11 @@
       - sogongdo : 최상위 패키지
         - xxxxxxManagement : 비즈니스 유스케이스 패키지
           - entity : 엔터티 패키지
+        - xxxxxxManagement
+          - entity
+        - xxxxxxManagement
+          - entity
+        - ...
 
 ### 2. 패키지명은 소문자로, 클래스명은 대문자로 시작해주십쇼
 
