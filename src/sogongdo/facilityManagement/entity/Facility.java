@@ -32,7 +32,7 @@ public class Facility
     {
         return operatingTime;
     }
-    public Strubg getOperatingDay()
+    public String getOperatingDay()
     {
         return operatingDay;
     }
