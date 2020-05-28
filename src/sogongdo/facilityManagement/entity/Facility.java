@@ -1,4 +1,4 @@
-package sogongdo.facilityManagement;
+package sogongdo.facilityManagement.entity;
 
 public class Facility 
 {   
