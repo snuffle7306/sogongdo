@@ -12,7 +12,7 @@ public class Facility
 
     public void setFacilityNmae(String facilityName){this.facilityName = facilityName;}
     public void setFacilityCode(String facilityCode){this.facilityCode =facilityCode;}
-    public void setWorkPlace(Stirng workPlace){this.workPlace = workPlace;}
+    public void setWorkPlace(String workPlace){this.workPlace = workPlace;}
     public void setOperatingTime(String operatingTime){this.operatingTime = operatingTime;}
     public void setOperatingDay(String operatingDay){this.operatingDay = operatingDay;}
 
