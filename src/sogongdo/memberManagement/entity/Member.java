@@ -47,11 +47,14 @@ public class Member
 		this.membername=membername;
 	}
 	public void setPhonenum(String phonenum)
-	{ this.phonenum=phonenum;
+	{
+		this.phonenum=phonenum;
 	}
 	public void setEmail(String email)
 	{
 		this.email=email;		
 	}
-	public void setAddress(String address) { this.address=address; }
+	public void setAddress(String address) {
+		this.address=address;
+	}
 }
